@@ -1,2 +1,67 @@
-# eczid-mcp-security-toolkit
-Free MCP security checks, examples and developer tools for understanding MCP configuration, tool exposure, change and runtime trust posture.
+# ECZ-ID MCP Security Toolkit
+
+## Know what your MCP can do before you let it act.
+
+Free, practical MCP security resources from EcoCitizenz Ltd / ECZ-ID.
+
+### Start here
+
+[**Install MCP Trust Free**](https://marketplace.visualstudio.com/items?itemName=ecocitizenz.eczid-mcp-trust)
+
+[**Download the MCP & AI Agent Trust Preflight**](https://developers.ecocitizenz.com/downloads/eczid-mcp-agent-trust-preflight.pdf?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=preflight)
+
+[**Explore MCP Trust Pro**](https://developers.ecocitizenz.com/mcp-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=pro)
+
+[**Need a professional MCP review?**](https://mcp.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=services)
+
+---
+
+## The problem
+
+Connecting an MCP server can expose tools, schemas, network access, files, environment-variable names and other capabilities inside an increasingly agentic development environment.
+
+The useful questions are:
+
+- What MCP servers are configured?
+- What tools and schemas are exposed?
+- Which credential-shaped environment names are present?
+- What changed since the previous review?
+- Which capabilities deserve additional review?
+- Is runtime traffic actually being mediated where enforcement is claimed?
+- Can operator evidence be independently re-checked?
+
+---
+
+## MCP Trust Community
+
+Free and local-first.
+
+Use ECZ-ID MCP Trust Community to inspect supported MCP configuration, inventory surfaces and identify change without requiring an ECZ-ID account.
+
+[Install MCP Trust →](https://marketplace.visualstudio.com/items?itemName=ecocitizenz.eczid-mcp-trust)
+
+---
+
+## MCP Trust Pro
+
+MCP Trust Pro adds deeper local history and supported local runtime controls including Trust Epochs, Advanced Tool X-Ray, deterministic local policy, remediation and optional Local Trust Gate mediation.
+
+[Explore MCP Trust Pro →](https://developers.ecocitizenz.com/mcp-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=get-pro)
+
+---
+
+## Organisation or enterprise requirement?
+
+For teams requiring professional assessment, migration or enterprise implementation:
+
+[Explore MCP Readiness Services →](https://mcp.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=audit)
+
+---
+
+## Public operator proof
+
+**ECZ-ID ✓ VERIFIED — ECZ-GB-RBS1NW**
+
+[View current public identity & evidence →](https://resolver.ecocitizenz.org/passport/ECZ-GB-RBS1NW)
+
+ECZ-ID publishes evidence for review. It does not certify a server as safe or replace the relying party's policy.
