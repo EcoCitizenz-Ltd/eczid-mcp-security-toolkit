@@ -82,7 +82,7 @@ Use **ECZ-ID MCP Verifier** when you have an ECZ-ID parent reference and want a 
 
 ```yaml
 - name: Check ECZ-ID public Resolver posture
-  uses: Ecocitizenz/ecz-id-mcp-verifier@v0.8.2
+  uses: Ecocitizenz/ecz-id-mcp-verifier@v0.8.3
   with:
     target: ECZ-GB-RBS1NW
     policy: PREFER
