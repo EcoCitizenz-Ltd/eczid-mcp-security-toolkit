@@ -65,3 +65,29 @@ For teams requiring professional assessment, migration or enterprise implementat
 [View current public identity & evidence →](https://resolver.ecocitizenz.org/passport/ECZ-GB-RBS1NW)
 
 ECZ-ID publishes evidence for review. It does not certify a server as safe or replace the relying party's policy.
+
+---
+
+## Use ECZ-ID inside GitHub
+
+### Pull-request and committed-configuration review
+
+Use **ECZ-ID MCP & Agent Check** for supported committed MCP and agent configuration. It reviews repository changes and reports deterministic findings without executing repository code.
+
+[Install ECZ-ID MCP & Agent Check](https://github.com/marketplace/ecz-id-mcp-agent-check)
+
+### Public Resolver posture in CI
+
+Use **ECZ-ID MCP Verifier** when you have an ECZ-ID parent reference and want a repeatable public Resolver-posture check in CI.
+
+```yaml
+- name: Check ECZ-ID public Resolver posture
+  uses: Ecocitizenz/ecz-id-mcp-verifier@v0.8.2
+  with:
+    target: ECZ-GB-RBS1NW
+    policy: PREFER
+```
+
+[ECZ-ID MCP Verifier source and usage](https://github.com/Ecocitizenz/ecz-id-mcp-verifier)
+
+The verifier reads and reports public Resolver posture. It does not inspect arbitrary target contents or replace your local policy.
