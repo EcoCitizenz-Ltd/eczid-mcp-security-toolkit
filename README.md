@@ -1,5 +1,7 @@
 # ECZ-ID MCP Security Toolkit
 
+![ECZ-ID MCP Security Toolkit architecture and configuration-review visual](https://raw.githubusercontent.com/EcoCitizenz-Ltd/.github/main/assets/repository-visuals/eczid-mcp-security-toolkit.jpg)
+
 ## Know what your MCP can do before you let it act.
 
 Free, practical MCP security resources from EcoCitizenz Ltd / ECZ-ID.
@@ -60,8 +62,7 @@ For teams requiring professional assessment, migration or enterprise implementat
 
 ## Public operator proof
 
-**ECZ-ID ✓ VERIFIED — ECZ-GB-RBS1NW**
-
+**ECZ-ID public identity evidence - ECZ-GB-RBS1NW**
 [View current public identity & evidence →](https://resolver.ecocitizenz.org/passport/ECZ-GB-RBS1NW)
 
 ECZ-ID publishes evidence for review. It does not certify a server as safe or replace the relying party's policy.
