@@ -10,6 +10,10 @@ Free, practical MCP security resources from EcoCitizenz Ltd / ECZ-ID.
 
 [**Install MCP Trust Free**](https://marketplace.visualstudio.com/items?itemName=ecocitizenz.eczid-mcp-trust)
 
+[**Get a free MCP Passport**](https://developers.ecocitizenz.com/quickstarts/mcp/?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=free-mcp-passport)
+
+[**Choose from all seven free machine Passport families**](https://developers.ecocitizenz.com/get-started/free-passport/?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=free-passports)
+
 [**Download the MCP & AI Agent Trust Preflight**](https://developers.ecocitizenz.com/downloads/eczid-mcp-agent-trust-preflight.pdf?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=preflight)
 
 [**Explore MCP Trust Pro**](https://developers.ecocitizenz.com/mcp-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=pro)
@@ -41,6 +45,10 @@ Free and local-first.
 Use ECZ-ID MCP Trust Community to inspect supported MCP configuration, inventory surfaces and identify change without requiring an ECZ-ID account.
 
 [Install MCP Trust →](https://marketplace.visualstudio.com/items?itemName=ecocitizenz.eczid-mcp-trust)
+
+If you operate the MCP server, you can also give that logical server a free ECZ-ID MCP Passport. The Passport is identity and a public pointer for re-checkable current state; it is not a safety, approval or certification claim.
+
+[Get the free MCP Passport →](https://developers.ecocitizenz.com/quickstarts/mcp/?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=community-passport)
 
 ---
 
@@ -83,7 +91,7 @@ Use **ECZ-ID MCP Verifier** when you have an ECZ-ID parent reference and want a 
 
 ```yaml
 - name: Check ECZ-ID public Resolver posture
-  uses: Ecocitizenz/ecz-id-mcp-verifier@v0.8.4
+  uses: Ecocitizenz/ecz-id-mcp-verifier@v0.9.1
   with:
     target: ECZ-GB-RBS1NW
     policy: PREFER
