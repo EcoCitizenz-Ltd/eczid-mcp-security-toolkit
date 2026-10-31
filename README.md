@@ -16,7 +16,7 @@ Free, practical MCP security resources from EcoCitizenz Ltd / ECZ-ID.
 
 [**Download the MCP & AI Agent Trust Preflight**](https://developers.ecocitizenz.com/downloads/eczid-mcp-agent-trust-preflight.pdf?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=preflight)
 
-[**Explore MCP Trust Pro**](https://developers.ecocitizenz.com/mcp-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=pro)
+[**Explore MCP Assurance**](https://developers.ecocitizenz.com/mcp-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=mcp-assurance)
 
 [**Need a professional MCP review?**](https://mcp.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=services)
 
@@ -52,11 +52,13 @@ If you operate the MCP server, you can also give that logical server a free ECZ-
 
 ---
 
-## MCP Trust Pro
+## MCP Assurance
 
-MCP Trust Pro adds deeper local history and supported local runtime controls including Trust Epochs, Advanced Tool X-Ray, deterministic local policy, remediation and optional Local Trust Gate mediation.
+The MCP Passport remains the free core identity. **MCP Assurance** is the optional paid operating layer, adding supported deeper local history and runtime controls including Trust Epochs, Advanced Tool X-Ray, deterministic local policy, remediation and optional Local Trust Gate mediation.
 
-[Explore MCP Trust Pro →](https://developers.ecocitizenz.com/mcp-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=get-pro)
+Payment does not make an MCP server safe, approved, certified or compliant, and it does not change the meaning of public Resolver evidence.
+
+[Explore MCP Assurance →](https://developers.ecocitizenz.com/mcp-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=get-mcp-assurance)
 
 ---
 
