@@ -73,7 +73,7 @@ For teams requiring professional assessment, migration or enterprise implementat
 ## Public operator proof
 
 **ECZ-ID public identity evidence - ECZ-GB-RBS1NW**
-[View current public identity & evidence →](https://resolver.ecocitizenz.org/passport/ECZ-GB-RBS1NW)
+[View current public identity & evidence →](https://resolver.ecocitizenz.org/p/ECZ-GB-RBS1NW)
 
 ECZ-ID publishes evidence for review. It does not certify a server as safe or replace the relying party's policy.
 
