@@ -16,6 +16,8 @@ Free, practical MCP security resources from EcoCitizenz Ltd / ECZ-ID.
 
 [**Download the MCP & AI Agent Trust Preflight**](https://developers.ecocitizenz.com/downloads/eczid-mcp-agent-trust-preflight.pdf?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=preflight)
 
+[**Get MCP Trust Pro / Developer Trust**](https://developers.ecocitizenz.com/developer-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=mcp-trust-pro)
+
 [**Explore MCP Assurance**](https://developers.ecocitizenz.com/mcp-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=mcp-assurance)
 
 [**Need a professional MCP review?**](https://mcp.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=services)
@@ -52,13 +54,47 @@ If you operate the MCP server, you can also give that logical server a free ECZ-
 
 ---
 
-## MCP Assurance
+## MCP Trust Pro
 
-The MCP Passport remains the free core identity. **MCP Assurance** is the optional paid operating layer, adding supported deeper local history and runtime controls including Trust Epochs, Advanced Tool X-Ray, deterministic local policy, remediation and optional Local Trust Gate mediation.
+**MCP Trust Pro** is the optional paid local Developer Trust software layer. It adds the supported deeper local history and runtime controls that belong to the `MCP_TRUST_PRO` entitlement, including:
+
+- Protect This MCP through the Local Trust Gate for supported transports;
+- Secret Shield;
+- Trust Epochs and local history;
+- Advanced Tool X-Ray;
+- deterministic local ALLOW / WARN / REVIEW / BLOCK / QUARANTINE policy;
+- reviewable remediation with backup and rollback.
+
+The MCP Passport remains the free core identity. MCP Trust Pro does not create or replace that Passport and does not issue canonical Resolver proof. **Developer Trust Pro Bundle** unlocks both MCP Trust Pro and Agent Trust Pro.
+
+[Get MCP Trust Pro / Developer Trust →](https://developers.ecocitizenz.com/developer-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=get-mcp-trust-pro)
+
+---
+
+## Separate organisational product: MCP Assurance
+
+**MCP Assurance is separate from MCP Trust Pro.** It is a higher-level organisational MCP assurance product and must not be presented as the customer-facing name of the `MCP_TRUST_PRO` software entitlement.
+
+Use MCP Assurance when the organisational requirement is broader than local developer inspection, mediation and policy controls. Buying MCP Assurance does not redefine MCP Trust Pro, and buying MCP Trust Pro does not create MCP Assurance.
+
+[Explore MCP Assurance →](https://developers.ecocitizenz.com/mcp-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=get-mcp-assurance)
 
 Payment does not make an MCP server safe, approved, certified or compliant, and it does not change the meaning of public Resolver evidence.
 
-[Explore MCP Assurance →](https://developers.ecocitizenz.com/mcp-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=get-mcp-assurance)
+---
+
+## Product boundary
+
+| Layer | Product / capability |
+|---|---|
+| Free local review | MCP Trust Community |
+| Free durable identity | MCP Passport |
+| Optional paid local developer software | MCP Trust Pro |
+| Optional paid developer bundle | Developer Trust Pro Bundle — MCP Trust Pro + Agent Trust Pro |
+| Separate higher-level organisational product | MCP Assurance / MCP Assurance Plus |
+| Public proof | ECZ-ID Resolver |
+
+These layers may work together, but they are not aliases for one another.
 
 ---
 
