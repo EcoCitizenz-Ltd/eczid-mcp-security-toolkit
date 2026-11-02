@@ -10,17 +10,17 @@ Free, practical MCP security resources from EcoCitizenz Ltd / ECZ-ID.
 
 [**Install MCP Trust Free**](https://marketplace.visualstudio.com/items?itemName=ecocitizenz.eczid-mcp-trust)
 
-[**Get a free MCP Passport**](https://developers.ecocitizenz.com/quickstarts/mcp/?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=free-mcp-passport)
+[**Get a free MCP Passport**](https://developers.ecocitizenz.com/quickstarts/mcp/?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=free-mcp-passport&ecz_source=github&ecz_surface=eczid-mcp-security-toolkit&intent=free-passport)
 
-[**Choose from all seven free machine Passport families**](https://developers.ecocitizenz.com/get-started/free-passport/?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=free-passports)
+[**Choose from all seven free machine Passport families**](https://developers.ecocitizenz.com/get-started/free-passport/?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=free-passports&ecz_source=github&ecz_surface=eczid-mcp-security-toolkit&intent=free-passport)
 
-[**Download the MCP & AI Agent Trust Preflight**](https://developers.ecocitizenz.com/downloads/eczid-mcp-agent-trust-preflight.pdf?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=preflight)
+[**Download the MCP & AI Agent Trust Preflight**](https://developers.ecocitizenz.com/downloads/eczid-mcp-agent-trust-preflight.pdf?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=preflight&ecz_source=github&ecz_surface=eczid-mcp-security-toolkit)
 
-[**Get MCP Trust Pro / Developer Trust**](https://developers.ecocitizenz.com/developer-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=mcp-trust-pro)
+[**Get MCP Trust Pro / Developer Trust**](https://developers.ecocitizenz.com/developer-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=mcp-trust-pro&ecz_source=github&ecz_surface=eczid-mcp-security-toolkit)
 
-[**Explore MCP Assurance**](https://developers.ecocitizenz.com/mcp-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=mcp-assurance)
+[**Explore MCP Assurance**](https://developers.ecocitizenz.com/mcp-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=mcp-assurance&ecz_source=github&ecz_surface=eczid-mcp-security-toolkit)
 
-[**Need a professional MCP review?**](https://mcp.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=services)
+[**Need a professional MCP review?**](https://mcp.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=services&ecz_source=github&ecz_surface=eczid-mcp-security-toolkit)
 
 ---
 
@@ -50,7 +50,7 @@ Use ECZ-ID MCP Trust Community to inspect supported MCP configuration, inventory
 
 If you operate the MCP server, you can also give that logical server a free ECZ-ID MCP Passport. The Passport is identity and a public pointer for re-checkable current state; it is not a safety, approval or certification claim.
 
-[Get the free MCP Passport →](https://developers.ecocitizenz.com/quickstarts/mcp/?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=community-passport)
+[Get the free MCP Passport →](https://developers.ecocitizenz.com/quickstarts/mcp/?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=community-passport&ecz_source=github&ecz_surface=eczid-mcp-security-toolkit&intent=free-passport)
 
 ---
 
@@ -67,7 +67,7 @@ If you operate the MCP server, you can also give that logical server a free ECZ-
 
 The MCP Passport remains the free core identity. MCP Trust Pro does not create or replace that Passport and does not issue canonical Resolver proof. **Developer Trust Pro Bundle** unlocks both MCP Trust Pro and Agent Trust Pro.
 
-[Get MCP Trust Pro / Developer Trust →](https://developers.ecocitizenz.com/developer-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=get-mcp-trust-pro)
+[Get MCP Trust Pro / Developer Trust →](https://developers.ecocitizenz.com/developer-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=get-mcp-trust-pro&ecz_source=github&ecz_surface=eczid-mcp-security-toolkit)
 
 ---
 
@@ -77,7 +77,7 @@ The MCP Passport remains the free core identity. MCP Trust Pro does not create o
 
 Use MCP Assurance when the organisational requirement is broader than local developer inspection, mediation and policy controls. Buying MCP Assurance does not redefine MCP Trust Pro, and buying MCP Trust Pro does not create MCP Assurance.
 
-[Explore MCP Assurance →](https://developers.ecocitizenz.com/mcp-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=get-mcp-assurance)
+[Explore MCP Assurance →](https://developers.ecocitizenz.com/mcp-trust?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=get-mcp-assurance&ecz_source=github&ecz_surface=eczid-mcp-security-toolkit)
 
 Payment does not make an MCP server safe, approved, certified or compliant, and it does not change the meaning of public Resolver evidence.
 
@@ -102,7 +102,7 @@ These layers may work together, but they are not aliases for one another.
 
 For teams requiring professional assessment, migration or enterprise implementation:
 
-[Explore MCP Readiness Services →](https://mcp.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=audit)
+[Explore MCP Readiness Services →](https://mcp.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=mcp-security-toolkit&utm_content=audit&ecz_source=github&ecz_surface=eczid-mcp-security-toolkit)
 
 ---
 
